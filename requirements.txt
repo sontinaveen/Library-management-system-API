@@ -1,0 +1,19 @@
+# Core Flask Dependencies
+flask==2.3.2
+werkzeug==2.3.7
+
+# Database and ORM (if needed in future)
+# sqlite3 is built-in with Python, so no external requirement
+
+# Authentication and Security
+python-dotenv==1.0.0
+
+# Optional: For future enhancements
+# You can comment these out if not immediately needed
+# flask-cors==4.0.0  # Cross-Origin Resource Sharing support
+# gunicorn==20.1.0   # Production WSGI HTTP Server
+
+# Development and Testing
+pytest==7.3.1
+coverage==7.2.5
+
